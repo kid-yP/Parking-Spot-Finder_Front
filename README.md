@@ -1,6 +1,4 @@
-# capstone
-
-A new Flutter project.
+# GDG Capstone Project
 
 ## Getting Started
 
