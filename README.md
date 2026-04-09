@@ -1,4 +1,4 @@
-### GDG Capstone Project
+## GDG Capstone Project
 
 ## Parking-Spot-Finder Frontend
 
